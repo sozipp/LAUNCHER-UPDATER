@@ -4,6 +4,6 @@
   "download_windows": "https://github.com/sozipp/LAUNCHER-UPDATER/main/releases/2.0/launcher.exe",
   "download_linux": "https://github.com/sozipp/LAUNCHER-UPDATER/main/releases/2.0/launcher.appimage",
   "download_linux_sh":"https://github.com/sozipp/LAUNCHER-UPDATER/main/releases/2.0/launcher.sh",
-  "download_windows_bat": "https://github.com/sozipp/LAUNCHER-UPDATER/releases/download/2.0/launcher.exe",
+  "download_windows_bat": "https://github.com/sozipp/LAUNCHER-UPDATER/releases/download/2.0/launcher.lol",
   "changelog": "Fixed bugs and added new features!"
 }
